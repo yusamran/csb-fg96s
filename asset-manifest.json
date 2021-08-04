@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-fg96s/static/css/main.49ab7174.chunk.css",
-    "main.js": "https://.github.io/csb-fg96s/static/js/main.05fa1fcf.chunk.js",
-    "main.js.map": "https://.github.io/csb-fg96s/static/js/main.05fa1fcf.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-fg96s/static/js/runtime-main.673a95b2.js",
-    "runtime-main.js.map": "https://.github.io/csb-fg96s/static/js/runtime-main.673a95b2.js.map",
-    "static/js/2.fbef63e4.chunk.js": "https://.github.io/csb-fg96s/static/js/2.fbef63e4.chunk.js",
-    "static/js/2.fbef63e4.chunk.js.map": "https://.github.io/csb-fg96s/static/js/2.fbef63e4.chunk.js.map",
-    "static/js/3.e43cb994.chunk.js": "https://.github.io/csb-fg96s/static/js/3.e43cb994.chunk.js",
-    "static/js/3.e43cb994.chunk.js.map": "https://.github.io/csb-fg96s/static/js/3.e43cb994.chunk.js.map",
-    "index.html": "https://.github.io/csb-fg96s/index.html",
-    "static/css/main.49ab7174.chunk.css.map": "https://.github.io/csb-fg96s/static/css/main.49ab7174.chunk.css.map",
-    "static/js/2.fbef63e4.chunk.js.LICENSE.txt": "https://.github.io/csb-fg96s/static/js/2.fbef63e4.chunk.js.LICENSE.txt",
-    "static/media/Finance.9816bdc7.png": "https://.github.io/csb-fg96s/static/media/Finance.9816bdc7.png",
-    "static/media/Profile4.19f1cad6.png": "https://.github.io/csb-fg96s/static/media/Profile4.19f1cad6.png",
-    "static/media/medikit.c8a52f0d.png": "https://.github.io/csb-fg96s/static/media/medikit.c8a52f0d.png"
+    "main.css": "https://yusamran.github.io/csb-fg96s/static/css/main.49ab7174.chunk.css",
+    "main.js": "https://yusamran.github.io/csb-fg96s/static/js/main.01f44175.chunk.js",
+    "main.js.map": "https://yusamran.github.io/csb-fg96s/static/js/main.01f44175.chunk.js.map",
+    "runtime-main.js": "https://yusamran.github.io/csb-fg96s/static/js/runtime-main.b4308507.js",
+    "runtime-main.js.map": "https://yusamran.github.io/csb-fg96s/static/js/runtime-main.b4308507.js.map",
+    "static/js/2.fbef63e4.chunk.js": "https://yusamran.github.io/csb-fg96s/static/js/2.fbef63e4.chunk.js",
+    "static/js/2.fbef63e4.chunk.js.map": "https://yusamran.github.io/csb-fg96s/static/js/2.fbef63e4.chunk.js.map",
+    "static/js/3.e43cb994.chunk.js": "https://yusamran.github.io/csb-fg96s/static/js/3.e43cb994.chunk.js",
+    "static/js/3.e43cb994.chunk.js.map": "https://yusamran.github.io/csb-fg96s/static/js/3.e43cb994.chunk.js.map",
+    "index.html": "https://yusamran.github.io/csb-fg96s/index.html",
+    "static/css/main.49ab7174.chunk.css.map": "https://yusamran.github.io/csb-fg96s/static/css/main.49ab7174.chunk.css.map",
+    "static/js/2.fbef63e4.chunk.js.LICENSE.txt": "https://yusamran.github.io/csb-fg96s/static/js/2.fbef63e4.chunk.js.LICENSE.txt",
+    "static/media/Finance.9816bdc7.png": "https://yusamran.github.io/csb-fg96s/static/media/Finance.9816bdc7.png",
+    "static/media/Profile4.19f1cad6.png": "https://yusamran.github.io/csb-fg96s/static/media/Profile4.19f1cad6.png",
+    "static/media/medikit.c8a52f0d.png": "https://yusamran.github.io/csb-fg96s/static/media/medikit.c8a52f0d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.673a95b2.js",
+    "static/js/runtime-main.b4308507.js",
     "static/js/2.fbef63e4.chunk.js",
     "static/css/main.49ab7174.chunk.css",
-    "static/js/main.05fa1fcf.chunk.js"
+    "static/js/main.01f44175.chunk.js"
   ]
 }
